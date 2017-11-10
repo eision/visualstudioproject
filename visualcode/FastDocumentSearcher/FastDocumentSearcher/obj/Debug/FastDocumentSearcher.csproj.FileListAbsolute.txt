@@ -1,0 +1,11 @@
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\FastDocumentSearcher.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\FastDocumentSearcher.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\Document.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\MeCabanalyse.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\Vector.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\Vector.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\Document.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\bin\Debug\MeCabanalyse.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\obj\Debug\FastDocumentSearcher.csprojResolveAssemblyReference.cache
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\obj\Debug\FastDocumentSearcher.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\FastDocumentSearcher\obj\Debug\FastDocumentSearcher.pdb

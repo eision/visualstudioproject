@@ -1,0 +1,20 @@
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarityTest.exe.config
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\obj\Debug\TextSimilarityTest.csprojResolveAssemblyReference.cache
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarityTest.exe
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarityTest.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarity.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\Vector.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\Vector.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarity.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\obj\Debug\TextSimilarityTest.exe
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarityTest\obj\Debug\TextSimilarityTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarityTest.exe.config
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\obj\Debug\TextSimilarityTest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\obj\Debug\TextSimilarityTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarityTest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarityTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarity.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\Vector.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\Vector.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\bin\Debug\TextSimilarity.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarityTest\obj\Debug\TextSimilarityTest.csprojResolveAssemblyReference.cache

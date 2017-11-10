@@ -1,0 +1,14 @@
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\bin\Debug\TextSimilarity.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\bin\Debug\TextSimilarity.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\bin\Debug\Vector.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\bin\Debug\Vector.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\obj\Debug\TextSimilarity.csprojResolveAssemblyReference.cache
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\obj\Debug\TextSimilarity.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\TextSimilarity\TextSimilarity\obj\Debug\TextSimilarity.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\bin\Debug\TextSimilarity.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\bin\Debug\TextSimilarity.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\bin\Debug\Vector.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\bin\Debug\Vector.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\obj\Debug\TextSimilarity.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\obj\Debug\TextSimilarity.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\TextSimilarity\TextSimilarity\obj\Debug\TextSimilarity.pdb

@@ -1,0 +1,9 @@
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\obj\Debug\YouTubeDataApi.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\bin\Debug\YouTubeDataApi.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\bin\Debug\YouTubeDataApi.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\bin\Debug\Youtube.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\bin\Debug\Youtube.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\obj\Debug\YouTubeDataApi.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\YouTubeDataApi\YouTubeDataApi\obj\Debug\YouTubeDataApi.pdb

@@ -1,0 +1,20 @@
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabtest.exe.config
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabtest.exe
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabtest.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\ClassLibrary1.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabMorphologicalAnalyzer.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\ClassLibrary1.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabMorphologicalAnalyzer.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\obj\Debug\MeCabtest.csprojResolveAssemblyReference.cache
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\obj\Debug\MeCabtest.exe
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabtest\obj\Debug\MeCabtest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabtest.exe.config
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\obj\Debug\MeCabtest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\obj\Debug\MeCabtest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabtest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabtest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\ClassLibrary1.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabMorphologicalAnalyzer.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\ClassLibrary1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\bin\Debug\MeCabMorphologicalAnalyzer.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabtest\obj\Debug\MeCabtest.csprojResolveAssemblyReference.cache

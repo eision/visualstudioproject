@@ -1,0 +1,10 @@
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\Document\bin\Debug\Document.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\Document\bin\Debug\Document.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\Document\obj\Debug\Document.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\Document\obj\Debug\Document.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\Document\obj\Debug\Document.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\Document\bin\Debug\Document.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\Document\bin\Debug\Document.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\Document\obj\Debug\Document.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\Document\obj\Debug\Document.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\Document\obj\Debug\Document.pdb

@@ -1,0 +1,18 @@
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentSearcher.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentSearcher.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\bin\Debug\Document.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\bin\Debug\Vector.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\bin\Debug\Vector.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\bin\Debug\Document.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentSearcher.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\bin\Debug\DocumentSearcher.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\bin\Debug\Document.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\bin\Debug\Vector.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\bin\Debug\Vector.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\bin\Debug\Document.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearcher\obj\Debug\DocumentSearcher.pdb

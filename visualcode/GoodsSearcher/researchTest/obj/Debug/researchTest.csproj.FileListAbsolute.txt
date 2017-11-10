@@ -1,0 +1,16 @@
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\bin\Debug\researchTest.exe.config
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\obj\Debug\researchTest.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\bin\Debug\researchTest.exe
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\bin\Debug\researchTest.pdb
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\bin\Debug\GoodsSearcher.dll
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\bin\Debug\GoodsSearcher.pdb
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\obj\Debug\researchTest.exe
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\researchTest\obj\Debug\researchTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\bin\Debug\researchTest.exe.config
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\obj\Debug\researchTest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\obj\Debug\researchTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\bin\Debug\researchTest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\bin\Debug\researchTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\bin\Debug\GoodsSearcher.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\bin\Debug\GoodsSearcher.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\researchTest\obj\Debug\researchTest.csprojResolveAssemblyReference.cache

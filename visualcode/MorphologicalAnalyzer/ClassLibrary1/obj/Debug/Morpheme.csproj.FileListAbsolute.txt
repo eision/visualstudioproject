@@ -1,0 +1,16 @@
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\Morpheme.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\Morpheme.csprojResolveAssemblyReference.cache
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\Morpheme.csproj.CoreCompileInputs.cache
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\Morpheme.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

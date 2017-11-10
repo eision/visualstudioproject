@@ -1,0 +1,8 @@
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\bin\Debug\Vector.dll
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\bin\Debug\Vector.pdb
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\TEMP\documents\visual studio 2013\Projects\Vector\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

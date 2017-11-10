@@ -1,0 +1,31 @@
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\MorphologicalAnalyzer.dll
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\MorphologicalAnalyzer.pdb
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\MorphologicalAnalyzerTest.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\temp\documents\visual studio 2013\Projects\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\MorphologicalAnalyzer.dll
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\MorphologicalAnalyzer.pdb
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\MorphologicalAnalyzerTest.csprojResolveAssemblyReference.cache
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\MorphologicalAnalyzerTest.csproj.CoreCompileInputs.cache
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\fukuchi\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\MorphologicalAnalyzer.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\bin\Debug\MorphologicalAnalyzer.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MorphologicalAnalyzer\ConsoleApplication1\obj\Debug\MorphologicalAnalyzerTest.csprojResolveAssemblyReference.cache

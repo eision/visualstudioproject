@@ -1,0 +1,5 @@
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\MeCabanalyse\bin\Debug\MeCabanalyse.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\MeCabanalyse\bin\Debug\MeCabanalyse.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\MeCabanalyse\obj\Debug\MeCabanalyse.csprojResolveAssemblyReference.cache
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\MeCabanalyse\obj\Debug\MeCabanalyse.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\FastDocumentSearcher\MeCabanalyse\obj\Debug\MeCabanalyse.pdb

@@ -1,0 +1,28 @@
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearchTest.exe.config
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\obj\Debug\DocumentSearchTest.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearchTest.exe
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearchTest.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\Document.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearcher.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\TextSimilarity.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\Vector.dll
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\TextSimilarity.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\Vector.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearcher.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\bin\Debug\Document.pdb
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\obj\Debug\DocumentSearchTest.exe
+C:\Users\a0156145\Documents\Visual Studio 2013\Projects\DocumentSearcher\DocumentSearchTest\obj\Debug\DocumentSearchTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearchTest.exe.config
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\obj\Debug\DocumentSearchTest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\obj\Debug\DocumentSearchTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearchTest.exe
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearchTest.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\Document.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearcher.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\TextSimilarity.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\Vector.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\TextSimilarity.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\Vector.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\DocumentSearcher.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\bin\Debug\Document.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\DocumentSearcher\DocumentSearchTest\obj\Debug\DocumentSearchTest.csprojResolveAssemblyReference.cache

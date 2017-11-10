@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarizeTest", "..\..\..\Visual Studio 2015\Projects\TextRankSummarizer\SummarizeTest\SummarizeTest.csproj", "{94950A55-4E44-4692-B782-35C61E559C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRankSummarizer", "..\..\..\Visual Studio 2015\Projects\TextRankSummarizer\TextRankSummarizer\TextRankSummarizer.csproj", "{92B66051-2078-4DB4-B5AD-A4CE23F1B9AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageRankCalculator", "..\PageRankCalculator\PageRankCalculator\PageRankCalculator.csproj", "{DFCBE563-A885-412B-BE7B-2AAFE9CCCDF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector", "..\..\..\enshu4\nakagawa\Vector\Vector\Vector.csproj", "{D61A5654-464F-42ED-A978-41D3165B4361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94950A55-4E44-4692-B782-35C61E559C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94950A55-4E44-4692-B782-35C61E559C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94950A55-4E44-4692-B782-35C61E559C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94950A55-4E44-4692-B782-35C61E559C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B66051-2078-4DB4-B5AD-A4CE23F1B9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B66051-2078-4DB4-B5AD-A4CE23F1B9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B66051-2078-4DB4-B5AD-A4CE23F1B9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B66051-2078-4DB4-B5AD-A4CE23F1B9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCBE563-A885-412B-BE7B-2AAFE9CCCDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCBE563-A885-412B-BE7B-2AAFE9CCCDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCBE563-A885-412B-BE7B-2AAFE9CCCDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCBE563-A885-412B-BE7B-2AAFE9CCCDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61A5654-464F-42ED-A978-41D3165B4361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61A5654-464F-42ED-A978-41D3165B4361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61A5654-464F-42ED-A978-41D3165B4361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61A5654-464F-42ED-A978-41D3165B4361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

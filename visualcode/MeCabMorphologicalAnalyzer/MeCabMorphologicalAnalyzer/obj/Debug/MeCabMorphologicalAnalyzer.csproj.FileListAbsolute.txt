@@ -1,0 +1,14 @@
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\ClassLibrary1.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\ClassLibrary1.pdb
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.dll
+c:\users\a0156145\documents\visual studio 2013\Projects\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\ClassLibrary1.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\bin\Debug\ClassLibrary1.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\MeCabMorphologicalAnalyzer\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.pdb

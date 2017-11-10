@@ -1,0 +1,7 @@
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\bin\Debug\TFVectorGenerator1.dll
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\bin\Debug\TFVectorGenerator1.pdb
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\obj\Debug\TFVectorGenerator1.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\obj\Debug\TFVectorGenerator1.dll
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\obj\Debug\TFVectorGenerator1.pdb
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\obj\Debug\TFVectorGenerator1.Form1.resources
+c:\users\temp\documents\visual studio 2013\Projects\TFVectorGenerator1\TFVectorGenerator1\obj\Debug\TFVectorGenerator1.csproj.GenerateResource.Cache

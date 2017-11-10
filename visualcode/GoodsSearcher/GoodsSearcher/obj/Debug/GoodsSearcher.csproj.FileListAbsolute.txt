@@ -1,0 +1,10 @@
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\GoodsSearcher\bin\Debug\GoodsSearcher.dll
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\GoodsSearcher\bin\Debug\GoodsSearcher.pdb
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\GoodsSearcher\obj\Debug\GoodsSearcher.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\GoodsSearcher\obj\Debug\GoodsSearcher.dll
+c:\users\temp\documents\visual studio 2013\Projects\GoodsSearcher\GoodsSearcher\obj\Debug\GoodsSearcher.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\GoodsSearcher\bin\Debug\GoodsSearcher.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\GoodsSearcher\bin\Debug\GoodsSearcher.pdb
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\GoodsSearcher\obj\Debug\GoodsSearcher.csprojResolveAssemblyReference.cache
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\GoodsSearcher\obj\Debug\GoodsSearcher.dll
+C:\Users\a0156145\Documents\enshu4\nakagawa\GoodsSearcher\GoodsSearcher\obj\Debug\GoodsSearcher.pdb
